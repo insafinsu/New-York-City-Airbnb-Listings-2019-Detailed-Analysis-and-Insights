@@ -13,7 +13,8 @@ This repository contains a comprehensive analysis of Airbnb listings in New York
 ✅ Interactive Map for Location-Based Analysis
 ✅ Filters for Custom Data Exploration
 
-🔑 Key Insights
+# *🔑 Key Insights*
+
 💰 Revenue & Listings Overview
 Total Revenue: $968M 💵
 
@@ -40,7 +41,7 @@ Room Type Distribution: Entire homes/apartments make up a large portion of booki
 
 
 
-🛠️ Technologies Used
+# *🛠️ Technologies Used*
 
 Power BI 📊
 
@@ -50,12 +51,12 @@ Kaggle
 
 Data Visualization & Analysis 📑
 
-📢 Contributing
+# *📢 Contributing*
 
 Feel free to contribute to this project by submitting issues or pull requests.
 
-📧 Contact
+# *📧 Contact*
 
 For any inquiries, reach out via email at mohammedinsafvp16@gmail.com 📩
 
-⭐ If you like this project, don't forget to star it on GitHub! ⭐
+# ***⭐ If you like this project, don't forget to star it on GitHub! ⭐***
