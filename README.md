@@ -1,4 +1,4 @@
-# """🏙️ New York City Airbnb Dashboard 📊"""
+# ***🏙️ New York City Airbnb Dashboard 📊***
 
 📖 Introduction
 This repository contains a comprehensive analysis of Airbnb listings in New York City for the year 2019. The dataset includes 48,895 entries with details such as listing names, host information, neighborhood locations, room types, prices, minimum stay requirements, and availability. Additionally, it provides review data, including the number of reviews, last review date, and reviews per month. This data can be used for market analysis, pricing trends, and neighborhood comparisons in NYC.
